@@ -1,7 +1,6 @@
 displayName = Fargo's Music Mod
 author = Fargo & Terry & Javyz
 version = 0.1.7.4
-hideCode = true
-hideResources = true
+hideCode = false
+hideResources = false
 modReferences = FargowiltasSouls@1.4
-side = Client
