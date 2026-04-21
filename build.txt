@@ -3,4 +3,3 @@ author = Fargo & Terry & Javyz
 version = 0.1.7.4
 hideCode = false
 hideResources = false
-modReferences = FargowiltasSouls@1.4
