@@ -1,0 +1,73 @@
+Items: {
+BaronP1MusicBox: {
+	DisplayName: Музыкальная шкатулка (Бранный Барон — 1-я фаза)
+	Tooltip: Проигрывает «Will of the Waves» от zentaque & Azathoth
+}
+
+BaronP2MusicBox: {
+	DisplayName: Музыкальная шкатулка (Бранный Барон — 2-я фаза)
+	Tooltip: Проигрывает «Will of the Waves» от zentaque & Azathoth
+}
+
+TrojanMusicBox: {
+	DisplayName: Музыкальная шкатулка (Троянская белка)
+	Tooltip: Проигрывает «Nuts And Bolts» от ProduceVGM
+}
+
+AbominationnP1MusicBox: {
+	DisplayName: Музыкальная шкатулка (Отвратт — 1-я фаза)
+	Tooltip: Проигрывает «Laevateinn» от Yuri O
+}
+
+AbominationnP2MusicBox: {
+	DisplayName: Музыкальная шкатулка (Отвратт — 2-я фаза)
+	Tooltip: Проигрывает «Laevateinn» от Yuri O
+}
+
+CoffinMusicBox: {
+	DisplayName: Музыкальная шкатулка (Скверный Саркофаг)
+	Tooltip: Проигрывает «Shifting Sands» от zentaque & Azathoth
+}
+
+EridanusMusicBox: {
+	DisplayName: Музыкальная шкатулка (Эридан)
+	Tooltip: Проигрывает «Platinum Star» от Yuri O
+}
+
+LifelightMusicBox: {
+	DisplayName: Музыкальная шкатулка (Жизнесвет)
+	Tooltip: Проигрывает «Illustrious Illuminescence» от ProduceVGM
+}
+
+MainMenuMusicBox: {
+	DisplayName: Музыкальная шкатулка (Главное меню)
+	Tooltip: Проигрывает «Nein» от Sakuzyo
+}
+
+
+ChampionMusicBox: {
+	DisplayName: Музыкальная шкатулка (Чемпионы)
+	Tooltip: Проигрывает «Ordeal» от Sakuzyo
+}
+
+DeviMusicBox: {
+	DisplayName: Музыкальная шкатулка (Девиантт)
+	Tooltip: Проигрывает «Sparkly Strawberry Sunrise» от Yuri O
+}
+
+MutantMusicBox: {
+	DisplayName: Музыкальная шкатулка (Мутант)
+	Tooltip: Проигрывает «Steel Red» от Sakuzyo
+}
+
+RePrologueMusicBox: {
+	DisplayName: Музыкальная шкатулка (???)
+	Tooltip: Проигрывает «rePrologue» от Sakuzyo
+}
+
+StoriaMusicBox: {
+	DisplayName: Музыкальная шкатулка (???)
+	Tooltip: Проигрывает «Storia» от Xi vs Sakuzyo
+}
+
+}
